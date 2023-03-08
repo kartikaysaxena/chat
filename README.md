@@ -15,6 +15,7 @@ First Clone the repo and download it to your local system.
 Run the following command to install dependencies by opening terminal.
 
 ```bash
+  cd server
   npm install
 ```
 Next run the following command to get the server up and running
